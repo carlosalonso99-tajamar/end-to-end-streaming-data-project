@@ -1,0 +1,2090 @@
+[
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38695,
+        "longitude": -3.65008,
+        "elevation": 78.96,
+        "timestamp": "0:00:00",
+        "distance_km": 0
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38698,
+        "longitude": -3.65006,
+        "elevation": 78.58,
+        "timestamp": "0:00:01",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3873,
+        "longitude": -3.6498,
+        "elevation": 79.57,
+        "timestamp": "0:00:02",
+        "distance_km": 0.042
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38769,
+        "longitude": -3.6495,
+        "elevation": 79.26,
+        "timestamp": "0:00:03",
+        "distance_km": 0.05
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38797,
+        "longitude": -3.6493,
+        "elevation": 78.81,
+        "timestamp": "0:00:04",
+        "distance_km": 0.035
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38776,
+        "longitude": -3.64893,
+        "elevation": 79.45,
+        "timestamp": "0:00:05",
+        "distance_km": 0.039
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38768,
+        "longitude": -3.64882,
+        "elevation": 79.78,
+        "timestamp": "0:00:06",
+        "distance_km": 0.013
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38752,
+        "longitude": -3.64842,
+        "elevation": 78.93,
+        "timestamp": "0:00:07",
+        "distance_km": 0.038
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38713,
+        "longitude": -3.64746,
+        "elevation": 79.26,
+        "timestamp": "0:00:08",
+        "distance_km": 0.092
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38697,
+        "longitude": -3.64704,
+        "elevation": 78.91,
+        "timestamp": "0:00:09",
+        "distance_km": 0.04
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38686,
+        "longitude": -3.64678,
+        "elevation": 79.0,
+        "timestamp": "0:00:10",
+        "distance_km": 0.025
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38661,
+        "longitude": -3.64622,
+        "elevation": 78.36,
+        "timestamp": "0:00:11",
+        "distance_km": 0.055
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38652,
+        "longitude": -3.64601,
+        "elevation": 77.78,
+        "timestamp": "0:00:12",
+        "distance_km": 0.02
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3864,
+        "longitude": -3.64581,
+        "elevation": 78.53,
+        "timestamp": "0:00:13",
+        "distance_km": 0.022
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38655,
+        "longitude": -3.64568,
+        "elevation": 77.6,
+        "timestamp": "0:00:14",
+        "distance_km": 0.02
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38679,
+        "longitude": -3.64549,
+        "elevation": 78.15,
+        "timestamp": "0:00:15",
+        "distance_km": 0.031
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38732,
+        "longitude": -3.64503,
+        "elevation": 78.51,
+        "timestamp": "0:00:16",
+        "distance_km": 0.071
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3876,
+        "longitude": -3.64484,
+        "elevation": 78.0,
+        "timestamp": "0:00:17",
+        "distance_km": 0.035
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38856,
+        "longitude": -3.64407,
+        "elevation": 77.91,
+        "timestamp": "0:00:18",
+        "distance_km": 0.125
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3888,
+        "longitude": -3.64387,
+        "elevation": 78.71,
+        "timestamp": "0:00:19",
+        "distance_km": 0.032
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38881,
+        "longitude": -3.64385,
+        "elevation": 79.59,
+        "timestamp": "0:00:20",
+        "distance_km": 0.002
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3889,
+        "longitude": -3.64377,
+        "elevation": 78.94,
+        "timestamp": "0:00:21",
+        "distance_km": 0.012
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3881,
+        "longitude": -3.64201,
+        "elevation": 78.5,
+        "timestamp": "0:00:22",
+        "distance_km": 0.174
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38801,
+        "longitude": -3.64179,
+        "elevation": 77.8,
+        "timestamp": "0:00:23",
+        "distance_km": 0.021
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38774,
+        "longitude": -3.6412,
+        "elevation": 76.96,
+        "timestamp": "0:00:24",
+        "distance_km": 0.058
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38754,
+        "longitude": -3.64074,
+        "elevation": 76.55,
+        "timestamp": "0:00:25",
+        "distance_km": 0.045
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38749,
+        "longitude": -3.6406,
+        "elevation": 76.61,
+        "timestamp": "0:00:26",
+        "distance_km": 0.013
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38736,
+        "longitude": -3.64031,
+        "elevation": 75.92,
+        "timestamp": "0:00:27",
+        "distance_km": 0.029
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38726,
+        "longitude": -3.64008,
+        "elevation": 75.44,
+        "timestamp": "0:00:28",
+        "distance_km": 0.022
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38712,
+        "longitude": -3.63981,
+        "elevation": 76.11,
+        "timestamp": "0:00:29",
+        "distance_km": 0.028
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38707,
+        "longitude": -3.6397,
+        "elevation": 75.27,
+        "timestamp": "0:00:30",
+        "distance_km": 0.011
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38674,
+        "longitude": -3.63899,
+        "elevation": 75.83,
+        "timestamp": "0:00:31",
+        "distance_km": 0.071
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38667,
+        "longitude": -3.63883,
+        "elevation": 75.49,
+        "timestamp": "0:00:32",
+        "distance_km": 0.016
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38646,
+        "longitude": -3.63834,
+        "elevation": 74.83,
+        "timestamp": "0:00:33",
+        "distance_km": 0.048
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38634,
+        "longitude": -3.63809,
+        "elevation": 75.46,
+        "timestamp": "0:00:34",
+        "distance_km": 0.025
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38624,
+        "longitude": -3.63783,
+        "elevation": 76.19,
+        "timestamp": "0:00:35",
+        "distance_km": 0.025
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38614,
+        "longitude": -3.6376,
+        "elevation": 75.55,
+        "timestamp": "0:00:36",
+        "distance_km": 0.022
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38606,
+        "longitude": -3.63743,
+        "elevation": 75.53,
+        "timestamp": "0:00:37",
+        "distance_km": 0.017
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38598,
+        "longitude": -3.63725,
+        "elevation": 75.87,
+        "timestamp": "0:00:38",
+        "distance_km": 0.018
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38583,
+        "longitude": -3.63691,
+        "elevation": 75.24,
+        "timestamp": "0:00:39",
+        "distance_km": 0.033
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38579,
+        "longitude": -3.63681,
+        "elevation": 75.3,
+        "timestamp": "0:00:40",
+        "distance_km": 0.01
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38574,
+        "longitude": -3.63672,
+        "elevation": 75.32,
+        "timestamp": "0:00:41",
+        "distance_km": 0.009
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38574,
+        "longitude": -3.63671,
+        "elevation": 75.03,
+        "timestamp": "0:00:42",
+        "distance_km": 0.001
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3857,
+        "longitude": -3.63664,
+        "elevation": 74.88,
+        "timestamp": "0:00:43",
+        "distance_km": 0.007
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3856,
+        "longitude": -3.63643,
+        "elevation": 75.5,
+        "timestamp": "0:00:44",
+        "distance_km": 0.021
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38552,
+        "longitude": -3.63596,
+        "elevation": 74.81,
+        "timestamp": "0:00:45",
+        "distance_km": 0.041
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38547,
+        "longitude": -3.63594,
+        "elevation": 75.01,
+        "timestamp": "0:00:46",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38544,
+        "longitude": -3.63591,
+        "elevation": 74.81,
+        "timestamp": "0:00:47",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38542,
+        "longitude": -3.63588,
+        "elevation": 74.91,
+        "timestamp": "0:00:48",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3854,
+        "longitude": -3.63582,
+        "elevation": 74.69,
+        "timestamp": "0:00:49",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3854,
+        "longitude": -3.6358,
+        "elevation": 74.73,
+        "timestamp": "0:00:50",
+        "distance_km": 0.002
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3854,
+        "longitude": -3.63575,
+        "elevation": 74.56,
+        "timestamp": "0:00:51",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38542,
+        "longitude": -3.63568,
+        "elevation": 74.56,
+        "timestamp": "0:00:52",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38546,
+        "longitude": -3.63564,
+        "elevation": 74.27,
+        "timestamp": "0:00:53",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3855,
+        "longitude": -3.63561,
+        "elevation": 73.67,
+        "timestamp": "0:00:54",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38524,
+        "longitude": -3.63499,
+        "elevation": 73.87,
+        "timestamp": "0:00:55",
+        "distance_km": 0.06
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38517,
+        "longitude": -3.63484,
+        "elevation": 73.25,
+        "timestamp": "0:00:56",
+        "distance_km": 0.015
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3851,
+        "longitude": -3.63469,
+        "elevation": 74.12,
+        "timestamp": "0:00:57",
+        "distance_km": 0.015
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38493,
+        "longitude": -3.63432,
+        "elevation": 73.57,
+        "timestamp": "0:00:58",
+        "distance_km": 0.037
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38476,
+        "longitude": -3.63402,
+        "elevation": 73.81,
+        "timestamp": "0:00:59",
+        "distance_km": 0.032
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38474,
+        "longitude": -3.63404,
+        "elevation": 74.12,
+        "timestamp": "0:01:00",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38471,
+        "longitude": -3.63406,
+        "elevation": 73.31,
+        "timestamp": "0:01:01",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38466,
+        "longitude": -3.63406,
+        "elevation": 72.67,
+        "timestamp": "0:01:02",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38463,
+        "longitude": -3.63406,
+        "elevation": 72.43,
+        "timestamp": "0:01:03",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38459,
+        "longitude": -3.63404,
+        "elevation": 73.08,
+        "timestamp": "0:01:04",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38457,
+        "longitude": -3.63402,
+        "elevation": 72.71,
+        "timestamp": "0:01:05",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38455,
+        "longitude": -3.634,
+        "elevation": 72.17,
+        "timestamp": "0:01:06",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38453,
+        "longitude": -3.63396,
+        "elevation": 72.83,
+        "timestamp": "0:01:07",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38451,
+        "longitude": -3.63392,
+        "elevation": 73.24,
+        "timestamp": "0:01:08",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3845,
+        "longitude": -3.63387,
+        "elevation": 72.61,
+        "timestamp": "0:01:09",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3845,
+        "longitude": -3.63381,
+        "elevation": 71.81,
+        "timestamp": "0:01:10",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3845,
+        "longitude": -3.63377,
+        "elevation": 72.45,
+        "timestamp": "0:01:11",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38451,
+        "longitude": -3.63374,
+        "elevation": 73.15,
+        "timestamp": "0:01:12",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38455,
+        "longitude": -3.63367,
+        "elevation": 73.27,
+        "timestamp": "0:01:13",
+        "distance_km": 0.007
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38457,
+        "longitude": -3.63364,
+        "elevation": 73.14,
+        "timestamp": "0:01:14",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3846,
+        "longitude": -3.63363,
+        "elevation": 72.31,
+        "timestamp": "0:01:15",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38462,
+        "longitude": -3.63362,
+        "elevation": 72.39,
+        "timestamp": "0:01:16",
+        "distance_km": 0.002
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38465,
+        "longitude": -3.63361,
+        "elevation": 72.65,
+        "timestamp": "0:01:17",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38469,
+        "longitude": -3.63362,
+        "elevation": 73.54,
+        "timestamp": "0:01:18",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38473,
+        "longitude": -3.63362,
+        "elevation": 73.71,
+        "timestamp": "0:01:19",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38476,
+        "longitude": -3.63364,
+        "elevation": 74.0,
+        "timestamp": "0:01:20",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.385,
+        "longitude": -3.63338,
+        "elevation": 74.24,
+        "timestamp": "0:01:21",
+        "distance_km": 0.035
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3851,
+        "longitude": -3.63332,
+        "elevation": 74.67,
+        "timestamp": "0:01:22",
+        "distance_km": 0.012
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38518,
+        "longitude": -3.63329,
+        "elevation": 74.67,
+        "timestamp": "0:01:23",
+        "distance_km": 0.009
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38526,
+        "longitude": -3.63329,
+        "elevation": 74.11,
+        "timestamp": "0:01:24",
+        "distance_km": 0.009
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38535,
+        "longitude": -3.63331,
+        "elevation": 74.22,
+        "timestamp": "0:01:25",
+        "distance_km": 0.01
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38545,
+        "longitude": -3.63335,
+        "elevation": 74.16,
+        "timestamp": "0:01:26",
+        "distance_km": 0.012
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38559,
+        "longitude": -3.63344,
+        "elevation": 74.46,
+        "timestamp": "0:01:27",
+        "distance_km": 0.017
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38574,
+        "longitude": -3.63351,
+        "elevation": 74.78,
+        "timestamp": "0:01:28",
+        "distance_km": 0.018
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38574,
+        "longitude": -3.63351,
+        "elevation": 75.52,
+        "timestamp": "0:01:29",
+        "distance_km": 0.0
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38597,
+        "longitude": -3.63359,
+        "elevation": 74.55,
+        "timestamp": "0:01:30",
+        "distance_km": 0.026
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38617,
+        "longitude": -3.63359,
+        "elevation": 74.02,
+        "timestamp": "0:01:31",
+        "distance_km": 0.022
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38629,
+        "longitude": -3.63356,
+        "elevation": 73.9,
+        "timestamp": "0:01:32",
+        "distance_km": 0.014
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38643,
+        "longitude": -3.63351,
+        "elevation": 74.14,
+        "timestamp": "0:01:33",
+        "distance_km": 0.016
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38675,
+        "longitude": -3.63332,
+        "elevation": 74.03,
+        "timestamp": "0:01:34",
+        "distance_km": 0.039
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38698,
+        "longitude": -3.63323,
+        "elevation": 73.61,
+        "timestamp": "0:01:35",
+        "distance_km": 0.027
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38712,
+        "longitude": -3.63314,
+        "elevation": 73.68,
+        "timestamp": "0:01:36",
+        "distance_km": 0.017
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38719,
+        "longitude": -3.6331,
+        "elevation": 74.18,
+        "timestamp": "0:01:37",
+        "distance_km": 0.008
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38849,
+        "longitude": -3.63217,
+        "elevation": 74.02,
+        "timestamp": "0:01:38",
+        "distance_km": 0.165
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38901,
+        "longitude": -3.63182,
+        "elevation": 74.11,
+        "timestamp": "0:01:39",
+        "distance_km": 0.065
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38927,
+        "longitude": -3.63163,
+        "elevation": 74.0,
+        "timestamp": "0:01:40",
+        "distance_km": 0.033
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38946,
+        "longitude": -3.6315,
+        "elevation": 74.75,
+        "timestamp": "0:01:41",
+        "distance_km": 0.024
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.38978,
+        "longitude": -3.63129,
+        "elevation": 75.56,
+        "timestamp": "0:01:42",
+        "distance_km": 0.04
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39108,
+        "longitude": -3.63049,
+        "elevation": 75.58,
+        "timestamp": "0:01:43",
+        "distance_km": 0.16
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39226,
+        "longitude": -3.6298,
+        "elevation": 74.91,
+        "timestamp": "0:01:44",
+        "distance_km": 0.144
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39247,
+        "longitude": -3.62968,
+        "elevation": 75.54,
+        "timestamp": "0:01:45",
+        "distance_km": 0.025
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39261,
+        "longitude": -3.62961,
+        "elevation": 74.59,
+        "timestamp": "0:01:46",
+        "distance_km": 0.017
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39264,
+        "longitude": -3.62958,
+        "elevation": 73.96,
+        "timestamp": "0:01:47",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39284,
+        "longitude": -3.62947,
+        "elevation": 73.37,
+        "timestamp": "0:01:48",
+        "distance_km": 0.024
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.3952,
+        "longitude": -3.62816,
+        "elevation": 73.54,
+        "timestamp": "0:01:49",
+        "distance_km": 0.285
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39635,
+        "longitude": -3.62757,
+        "elevation": 73.42,
+        "timestamp": "0:01:50",
+        "distance_km": 0.137
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39666,
+        "longitude": -3.62744,
+        "elevation": 73.45,
+        "timestamp": "0:01:51",
+        "distance_km": 0.036
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39736,
+        "longitude": -3.62716,
+        "elevation": 73.56,
+        "timestamp": "0:01:52",
+        "distance_km": 0.081
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39774,
+        "longitude": -3.62701,
+        "elevation": 73.14,
+        "timestamp": "0:01:53",
+        "distance_km": 0.044
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39806,
+        "longitude": -3.6269,
+        "elevation": 73.05,
+        "timestamp": "0:01:54",
+        "distance_km": 0.037
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39858,
+        "longitude": -3.62678,
+        "elevation": 73.31,
+        "timestamp": "0:01:55",
+        "distance_km": 0.059
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.39883,
+        "longitude": -3.62671,
+        "elevation": 73.72,
+        "timestamp": "0:01:56",
+        "distance_km": 0.028
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40095,
+        "longitude": -3.62619,
+        "elevation": 74.09,
+        "timestamp": "0:01:57",
+        "distance_km": 0.24
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40163,
+        "longitude": -3.62599,
+        "elevation": 73.4,
+        "timestamp": "0:01:58",
+        "distance_km": 0.077
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40198,
+        "longitude": -3.62587,
+        "elevation": 73.89,
+        "timestamp": "0:01:59",
+        "distance_km": 0.04
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40228,
+        "longitude": -3.62578,
+        "elevation": 74.08,
+        "timestamp": "0:02:00",
+        "distance_km": 0.034
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40292,
+        "longitude": -3.62549,
+        "elevation": 74.5,
+        "timestamp": "0:02:01",
+        "distance_km": 0.075
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40336,
+        "longitude": -3.62529,
+        "elevation": 74.54,
+        "timestamp": "0:02:02",
+        "distance_km": 0.052
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40572,
+        "longitude": -3.62406,
+        "elevation": 74.78,
+        "timestamp": "0:02:03",
+        "distance_km": 0.282
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40663,
+        "longitude": -3.62359,
+        "elevation": 75.32,
+        "timestamp": "0:02:04",
+        "distance_km": 0.109
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40686,
+        "longitude": -3.62348,
+        "elevation": 75.94,
+        "timestamp": "0:02:05",
+        "distance_km": 0.027
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40728,
+        "longitude": -3.62325,
+        "elevation": 76.21,
+        "timestamp": "0:02:06",
+        "distance_km": 0.051
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40768,
+        "longitude": -3.62304,
+        "elevation": 76.49,
+        "timestamp": "0:02:07",
+        "distance_km": 0.048
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.40771,
+        "longitude": -3.62303,
+        "elevation": 76.4,
+        "timestamp": "0:02:08",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41006,
+        "longitude": -3.6218,
+        "elevation": 75.76,
+        "timestamp": "0:02:09",
+        "distance_km": 0.281
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41036,
+        "longitude": -3.62164,
+        "elevation": 75.37,
+        "timestamp": "0:02:10",
+        "distance_km": 0.036
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41053,
+        "longitude": -3.62157,
+        "elevation": 76.04,
+        "timestamp": "0:02:11",
+        "distance_km": 0.02
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41149,
+        "longitude": -3.62105,
+        "elevation": 75.08,
+        "timestamp": "0:02:12",
+        "distance_km": 0.115
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41187,
+        "longitude": -3.62085,
+        "elevation": 74.49,
+        "timestamp": "0:02:13",
+        "distance_km": 0.045
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41231,
+        "longitude": -3.62063,
+        "elevation": 73.72,
+        "timestamp": "0:02:14",
+        "distance_km": 0.052
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4126,
+        "longitude": -3.62046,
+        "elevation": 73.84,
+        "timestamp": "0:02:15",
+        "distance_km": 0.035
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41301,
+        "longitude": -3.62026,
+        "elevation": 72.91,
+        "timestamp": "0:02:16",
+        "distance_km": 0.049
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41322,
+        "longitude": -3.62015,
+        "elevation": 71.96,
+        "timestamp": "0:02:17",
+        "distance_km": 0.025
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41361,
+        "longitude": -3.6199,
+        "elevation": 72.31,
+        "timestamp": "0:02:18",
+        "distance_km": 0.048
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41389,
+        "longitude": -3.61971,
+        "elevation": 72.59,
+        "timestamp": "0:02:19",
+        "distance_km": 0.035
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41402,
+        "longitude": -3.61959,
+        "elevation": 71.73,
+        "timestamp": "0:02:20",
+        "distance_km": 0.018
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4142,
+        "longitude": -3.61944,
+        "elevation": 71.67,
+        "timestamp": "0:02:21",
+        "distance_km": 0.024
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41428,
+        "longitude": -3.61936,
+        "elevation": 72.15,
+        "timestamp": "0:02:22",
+        "distance_km": 0.011
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41466,
+        "longitude": -3.61894,
+        "elevation": 71.97,
+        "timestamp": "0:02:23",
+        "distance_km": 0.055
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41492,
+        "longitude": -3.61858,
+        "elevation": 72.93,
+        "timestamp": "0:02:24",
+        "distance_km": 0.042
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41515,
+        "longitude": -3.61819,
+        "elevation": 73.45,
+        "timestamp": "0:02:25",
+        "distance_km": 0.042
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41521,
+        "longitude": -3.61809,
+        "elevation": 74.05,
+        "timestamp": "0:02:26",
+        "distance_km": 0.011
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41538,
+        "longitude": -3.61774,
+        "elevation": 73.52,
+        "timestamp": "0:02:27",
+        "distance_km": 0.035
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41562,
+        "longitude": -3.61715,
+        "elevation": 73.85,
+        "timestamp": "0:02:28",
+        "distance_km": 0.057
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41622,
+        "longitude": -3.61541,
+        "elevation": 74.44,
+        "timestamp": "0:02:29",
+        "distance_km": 0.162
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41668,
+        "longitude": -3.61413,
+        "elevation": 74.79,
+        "timestamp": "0:02:30",
+        "distance_km": 0.12
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41672,
+        "longitude": -3.61396,
+        "elevation": 75.29,
+        "timestamp": "0:02:31",
+        "distance_km": 0.015
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41685,
+        "longitude": -3.61356,
+        "elevation": 75.57,
+        "timestamp": "0:02:32",
+        "distance_km": 0.037
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41707,
+        "longitude": -3.61296,
+        "elevation": 75.4,
+        "timestamp": "0:02:33",
+        "distance_km": 0.056
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41734,
+        "longitude": -3.61225,
+        "elevation": 74.71,
+        "timestamp": "0:02:34",
+        "distance_km": 0.067
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41765,
+        "longitude": -3.61138,
+        "elevation": 74.86,
+        "timestamp": "0:02:35",
+        "distance_km": 0.081
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41771,
+        "longitude": -3.6112,
+        "elevation": 74.79,
+        "timestamp": "0:02:36",
+        "distance_km": 0.017
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41778,
+        "longitude": -3.61092,
+        "elevation": 75.72,
+        "timestamp": "0:02:37",
+        "distance_km": 0.025
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41781,
+        "longitude": -3.61084,
+        "elevation": 75.23,
+        "timestamp": "0:02:38",
+        "distance_km": 0.008
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41786,
+        "longitude": -3.61069,
+        "elevation": 74.57,
+        "timestamp": "0:02:39",
+        "distance_km": 0.014
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41794,
+        "longitude": -3.61048,
+        "elevation": 75.16,
+        "timestamp": "0:02:40",
+        "distance_km": 0.02
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4184,
+        "longitude": -3.6092,
+        "elevation": 75.31,
+        "timestamp": "0:02:41",
+        "distance_km": 0.12
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41876,
+        "longitude": -3.60825,
+        "elevation": 74.87,
+        "timestamp": "0:02:42",
+        "distance_km": 0.09
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41923,
+        "longitude": -3.60694,
+        "elevation": 75.06,
+        "timestamp": "0:02:43",
+        "distance_km": 0.123
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41925,
+        "longitude": -3.6069,
+        "elevation": 75.41,
+        "timestamp": "0:02:44",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41927,
+        "longitude": -3.60683,
+        "elevation": 74.73,
+        "timestamp": "0:02:45",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41972,
+        "longitude": -3.60555,
+        "elevation": 73.93,
+        "timestamp": "0:02:46",
+        "distance_km": 0.12
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.41993,
+        "longitude": -3.60497,
+        "elevation": 73.5,
+        "timestamp": "0:02:47",
+        "distance_km": 0.054
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42044,
+        "longitude": -3.60352,
+        "elevation": 72.78,
+        "timestamp": "0:02:48",
+        "distance_km": 0.135
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42088,
+        "longitude": -3.60228,
+        "elevation": 72.5,
+        "timestamp": "0:02:49",
+        "distance_km": 0.116
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42117,
+        "longitude": -3.6015,
+        "elevation": 73.47,
+        "timestamp": "0:02:50",
+        "distance_km": 0.074
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42139,
+        "longitude": -3.60103,
+        "elevation": 73.89,
+        "timestamp": "0:02:51",
+        "distance_km": 0.047
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42146,
+        "longitude": -3.6009,
+        "elevation": 73.1,
+        "timestamp": "0:02:52",
+        "distance_km": 0.013
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4216,
+        "longitude": -3.60065,
+        "elevation": 72.41,
+        "timestamp": "0:02:53",
+        "distance_km": 0.026
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42176,
+        "longitude": -3.60042,
+        "elevation": 72.68,
+        "timestamp": "0:02:54",
+        "distance_km": 0.026
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42193,
+        "longitude": -3.60018,
+        "elevation": 72.16,
+        "timestamp": "0:02:55",
+        "distance_km": 0.028
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42209,
+        "longitude": -3.59999,
+        "elevation": 72.13,
+        "timestamp": "0:02:56",
+        "distance_km": 0.024
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4223,
+        "longitude": -3.59977,
+        "elevation": 71.6,
+        "timestamp": "0:02:57",
+        "distance_km": 0.03
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42266,
+        "longitude": -3.59945,
+        "elevation": 72.51,
+        "timestamp": "0:02:58",
+        "distance_km": 0.048
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42302,
+        "longitude": -3.5992,
+        "elevation": 72.22,
+        "timestamp": "0:02:59",
+        "distance_km": 0.045
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42337,
+        "longitude": -3.599,
+        "elevation": 72.81,
+        "timestamp": "0:03:00",
+        "distance_km": 0.042
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4237,
+        "longitude": -3.59886,
+        "elevation": 73.46,
+        "timestamp": "0:03:01",
+        "distance_km": 0.039
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42437,
+        "longitude": -3.59863,
+        "elevation": 74.37,
+        "timestamp": "0:03:02",
+        "distance_km": 0.077
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42682,
+        "longitude": -3.59781,
+        "elevation": 74.12,
+        "timestamp": "0:03:03",
+        "distance_km": 0.281
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42719,
+        "longitude": -3.59768,
+        "elevation": 73.27,
+        "timestamp": "0:03:04",
+        "distance_km": 0.043
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42734,
+        "longitude": -3.59759,
+        "elevation": 72.93,
+        "timestamp": "0:03:05",
+        "distance_km": 0.018
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42784,
+        "longitude": -3.59735,
+        "elevation": 72.54,
+        "timestamp": "0:03:06",
+        "distance_km": 0.059
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4282,
+        "longitude": -3.59722,
+        "elevation": 73.11,
+        "timestamp": "0:03:07",
+        "distance_km": 0.041
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4286,
+        "longitude": -3.59703,
+        "elevation": 73.3,
+        "timestamp": "0:03:08",
+        "distance_km": 0.047
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42899,
+        "longitude": -3.5968,
+        "elevation": 72.33,
+        "timestamp": "0:03:09",
+        "distance_km": 0.048
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42925,
+        "longitude": -3.59665,
+        "elevation": 71.56,
+        "timestamp": "0:03:10",
+        "distance_km": 0.032
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4294,
+        "longitude": -3.59656,
+        "elevation": 70.81,
+        "timestamp": "0:03:11",
+        "distance_km": 0.018
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4296,
+        "longitude": -3.59645,
+        "elevation": 71.12,
+        "timestamp": "0:03:12",
+        "distance_km": 0.024
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42969,
+        "longitude": -3.59643,
+        "elevation": 71.84,
+        "timestamp": "0:03:13",
+        "distance_km": 0.01
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42971,
+        "longitude": -3.59642,
+        "elevation": 72.2,
+        "timestamp": "0:03:14",
+        "distance_km": 0.002
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42976,
+        "longitude": -3.59636,
+        "elevation": 72.19,
+        "timestamp": "0:03:15",
+        "distance_km": 0.008
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42982,
+        "longitude": -3.5963,
+        "elevation": 72.69,
+        "timestamp": "0:03:16",
+        "distance_km": 0.008
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42986,
+        "longitude": -3.59626,
+        "elevation": 72.62,
+        "timestamp": "0:03:17",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.42997,
+        "longitude": -3.59621,
+        "elevation": 73.26,
+        "timestamp": "0:03:18",
+        "distance_km": 0.013
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43008,
+        "longitude": -3.59619,
+        "elevation": 72.63,
+        "timestamp": "0:03:19",
+        "distance_km": 0.012
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43015,
+        "longitude": -3.59619,
+        "elevation": 73.46,
+        "timestamp": "0:03:20",
+        "distance_km": 0.008
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43026,
+        "longitude": -3.59623,
+        "elevation": 74.35,
+        "timestamp": "0:03:21",
+        "distance_km": 0.013
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43032,
+        "longitude": -3.59626,
+        "elevation": 74.4,
+        "timestamp": "0:03:22",
+        "distance_km": 0.007
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43038,
+        "longitude": -3.5963,
+        "elevation": 74.3,
+        "timestamp": "0:03:23",
+        "distance_km": 0.007
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43043,
+        "longitude": -3.59634,
+        "elevation": 74.56,
+        "timestamp": "0:03:24",
+        "distance_km": 0.007
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43046,
+        "longitude": -3.59639,
+        "elevation": 74.96,
+        "timestamp": "0:03:25",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43051,
+        "longitude": -3.59649,
+        "elevation": 75.29,
+        "timestamp": "0:03:26",
+        "distance_km": 0.01
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43054,
+        "longitude": -3.59654,
+        "elevation": 74.8,
+        "timestamp": "0:03:27",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43056,
+        "longitude": -3.59661,
+        "elevation": 74.21,
+        "timestamp": "0:03:28",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43057,
+        "longitude": -3.5967,
+        "elevation": 74.73,
+        "timestamp": "0:03:29",
+        "distance_km": 0.008
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43058,
+        "longitude": -3.59676,
+        "elevation": 74.76,
+        "timestamp": "0:03:30",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43058,
+        "longitude": -3.59686,
+        "elevation": 74.16,
+        "timestamp": "0:03:31",
+        "distance_km": 0.008
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43058,
+        "longitude": -3.59693,
+        "elevation": 74.51,
+        "timestamp": "0:03:32",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43057,
+        "longitude": -3.59698,
+        "elevation": 74.78,
+        "timestamp": "0:03:33",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43052,
+        "longitude": -3.59712,
+        "elevation": 75.46,
+        "timestamp": "0:03:34",
+        "distance_km": 0.013
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43047,
+        "longitude": -3.59724,
+        "elevation": 76.45,
+        "timestamp": "0:03:35",
+        "distance_km": 0.012
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43042,
+        "longitude": -3.59731,
+        "elevation": 76.55,
+        "timestamp": "0:03:36",
+        "distance_km": 0.008
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43046,
+        "longitude": -3.59762,
+        "elevation": 76.25,
+        "timestamp": "0:03:37",
+        "distance_km": 0.027
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43049,
+        "longitude": -3.59773,
+        "elevation": 76.15,
+        "timestamp": "0:03:38",
+        "distance_km": 0.01
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43058,
+        "longitude": -3.59792,
+        "elevation": 75.29,
+        "timestamp": "0:03:39",
+        "distance_km": 0.019
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43061,
+        "longitude": -3.59798,
+        "elevation": 75.75,
+        "timestamp": "0:03:40",
+        "distance_km": 0.006
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43076,
+        "longitude": -3.59819,
+        "elevation": 76.25,
+        "timestamp": "0:03:41",
+        "distance_km": 0.024
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.4308,
+        "longitude": -3.59825,
+        "elevation": 76.56,
+        "timestamp": "0:03:42",
+        "distance_km": 0.007
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43086,
+        "longitude": -3.59832,
+        "elevation": 76.91,
+        "timestamp": "0:03:43",
+        "distance_km": 0.009
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43094,
+        "longitude": -3.59831,
+        "elevation": 76.35,
+        "timestamp": "0:03:44",
+        "distance_km": 0.009
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43096,
+        "longitude": -3.59832,
+        "elevation": 76.56,
+        "timestamp": "0:03:45",
+        "distance_km": 0.002
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43118,
+        "longitude": -3.59848,
+        "elevation": 77.02,
+        "timestamp": "0:03:46",
+        "distance_km": 0.028
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43135,
+        "longitude": -3.59858,
+        "elevation": 76.93,
+        "timestamp": "0:03:47",
+        "distance_km": 0.021
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43159,
+        "longitude": -3.59868,
+        "elevation": 76.38,
+        "timestamp": "0:03:48",
+        "distance_km": 0.028
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43183,
+        "longitude": -3.5987,
+        "elevation": 76.12,
+        "timestamp": "0:03:49",
+        "distance_km": 0.027
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43201,
+        "longitude": -3.59866,
+        "elevation": 75.89,
+        "timestamp": "0:03:50",
+        "distance_km": 0.02
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43217,
+        "longitude": -3.59854,
+        "elevation": 75.5,
+        "timestamp": "0:03:51",
+        "distance_km": 0.02
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43225,
+        "longitude": -3.59842,
+        "elevation": 75.05,
+        "timestamp": "0:03:52",
+        "distance_km": 0.014
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43238,
+        "longitude": -3.59765,
+        "elevation": 75.68,
+        "timestamp": "0:03:53",
+        "distance_km": 0.067
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43245,
+        "longitude": -3.5974,
+        "elevation": 75.87,
+        "timestamp": "0:03:54",
+        "distance_km": 0.023
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43259,
+        "longitude": -3.59719,
+        "elevation": 76.26,
+        "timestamp": "0:03:55",
+        "distance_km": 0.024
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43277,
+        "longitude": -3.59697,
+        "elevation": 76.84,
+        "timestamp": "0:03:56",
+        "distance_km": 0.027
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43299,
+        "longitude": -3.5968,
+        "elevation": 76.2,
+        "timestamp": "0:03:57",
+        "distance_km": 0.028
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43336,
+        "longitude": -3.59661,
+        "elevation": 75.59,
+        "timestamp": "0:03:58",
+        "distance_km": 0.044
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43356,
+        "longitude": -3.59651,
+        "elevation": 76.07,
+        "timestamp": "0:03:59",
+        "distance_km": 0.024
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43356,
+        "longitude": -3.59646,
+        "elevation": 75.7,
+        "timestamp": "0:04:00",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43356,
+        "longitude": -3.59641,
+        "elevation": 75.49,
+        "timestamp": "0:04:01",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43357,
+        "longitude": -3.59636,
+        "elevation": 76.27,
+        "timestamp": "0:04:02",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43359,
+        "longitude": -3.59631,
+        "elevation": 75.93,
+        "timestamp": "0:04:03",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43361,
+        "longitude": -3.59627,
+        "elevation": 75.85,
+        "timestamp": "0:04:04",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43364,
+        "longitude": -3.59624,
+        "elevation": 75.31,
+        "timestamp": "0:04:05",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43368,
+        "longitude": -3.59621,
+        "elevation": 75.88,
+        "timestamp": "0:04:06",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43371,
+        "longitude": -3.5962,
+        "elevation": 76.86,
+        "timestamp": "0:04:07",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43375,
+        "longitude": -3.59619,
+        "elevation": 77.47,
+        "timestamp": "0:04:08",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43383,
+        "longitude": -3.59621,
+        "elevation": 77.03,
+        "timestamp": "0:04:09",
+        "distance_km": 0.009
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43386,
+        "longitude": -3.59624,
+        "elevation": 76.59,
+        "timestamp": "0:04:10",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43389,
+        "longitude": -3.59627,
+        "elevation": 76.18,
+        "timestamp": "0:04:11",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43392,
+        "longitude": -3.59631,
+        "elevation": 76.58,
+        "timestamp": "0:04:12",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43394,
+        "longitude": -3.59636,
+        "elevation": 76.49,
+        "timestamp": "0:04:13",
+        "distance_km": 0.005
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43395,
+        "longitude": -3.59641,
+        "elevation": 75.9,
+        "timestamp": "0:04:14",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43395,
+        "longitude": -3.59646,
+        "elevation": 75.18,
+        "timestamp": "0:04:15",
+        "distance_km": 0.004
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43395,
+        "longitude": -3.59649,
+        "elevation": 76.18,
+        "timestamp": "0:04:16",
+        "distance_km": 0.003
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43418,
+        "longitude": -3.59653,
+        "elevation": 75.57,
+        "timestamp": "0:04:17",
+        "distance_km": 0.026
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43493,
+        "longitude": -3.59666,
+        "elevation": 76.06,
+        "timestamp": "0:04:18",
+        "distance_km": 0.084
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43622,
+        "longitude": -3.59695,
+        "elevation": 77.01,
+        "timestamp": "0:04:19",
+        "distance_km": 0.145
+    },
+    {
+        "car_id": "VIKUNETA2",
+        "latitude": 40.43615,
+        "longitude": -3.59762,
+        "elevation": 76.18,
+        "timestamp": "0:04:20",
+        "distance_km": 0.057
+    }
+]
