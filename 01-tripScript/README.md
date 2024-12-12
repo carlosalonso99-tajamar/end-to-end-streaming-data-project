@@ -173,3 +173,4 @@ Verifica que el `api_key` sea válido y tenga permisos para acceder a Azure Maps
 ## Contacto
 Para cualquier consulta o mejora, contacta con el desarrollador a través de tu correo electrónico preferido.
 
+[Siguiente: Desplegar **Azure Event Hubs** y configurar los productores y consumidores de datos.](../02-eventhubs/README.md)

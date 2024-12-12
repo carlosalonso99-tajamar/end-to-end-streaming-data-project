@@ -70,7 +70,7 @@ Esta arquitectura permite el procesamiento en tiempo real de datos provenientes 
 1. [Generar los Datos a con **AzureMaps**](01-tripScript/README.md)
 2. [Desplegar **Azure Event Hubs** y configurar los productores y consumidores de datos.](02-eventhubs/README.md)
 3. [Configurar el servidor de streaming y la aplicación web.](03-server-app/README.md)
-4. [Crear un workspace de **Azure Databricks**, conectar con Event Hubs y Configurar las capas **Bronze**, **Silver** y **Gold** en Delta Lake. .](04-databricks/README.md)
+4. [Crear un workspace de **Azure Databricks**, conectar con Event Hubs y Configurar las capas **Bronze**, **Silver** y **Gold** en Delta Lake.](04-databricks/README.md)
 5. [Crear dashboards en **Power BI Desktop** y publicarlos en **Power BI Service**.](05-powerbi/readme.md)
 
 ---

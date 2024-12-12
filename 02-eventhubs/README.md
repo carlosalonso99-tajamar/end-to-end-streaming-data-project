@@ -52,3 +52,5 @@ Ese comando, nos proporciona una cadena en formato JSON, donde podemos ver nuest
 ## Conclusión
 
 Siguiendo estos pasos, habrás configurado un servicio de Azure Event Hubs listo para recibir y procesar datos en tiempo real. Para más detalles y opciones avanzadas, consulta la [documentación oficial de Azure Event Hubs](https://docs.microsoft.com/es-es/azure/event-hubs/).
+
+[Siguiente: Configurar el servidor de streaming y la aplicación web.](../03-server-app/README.md)

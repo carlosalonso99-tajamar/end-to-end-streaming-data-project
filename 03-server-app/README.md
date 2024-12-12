@@ -138,3 +138,4 @@ Guarda estos valores para usarlos en la creación del contenedor.
 
 Con esta guía, deberías poder realizar todo el proceso de construcción, despliegue y ejecución sin problemas. ¡Buena suerte!
 
+[Siguiente: Crear un workspace de **Azure Databricks**, conectar con Event Hubs y Configurar las capas **Bronze**, **Silver** y **Gold** en Delta Lake.](../04-databricks/README.md)

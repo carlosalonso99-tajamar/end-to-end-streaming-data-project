@@ -93,3 +93,5 @@ Si queremos tener más automatización en nuestro proceso de limpieza y mejora d
    ![alt text](images/image-19.png)
 
 Una vez guardado el trigger, ya tendríamos nuestro workflow corriendo para que se ejecute el cuaderno continuamente, y así poder automatizar las funciones de limpieza y agregación de los datos.
+
+[Siguiente: Crear dashboards en **Power BI Desktop** y publicarlos en **Power BI Service**.](../05-powerbi/readme.md)
